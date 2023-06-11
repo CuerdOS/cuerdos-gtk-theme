@@ -6,12 +6,19 @@ The Xfwm theme is based on Toffee [https://github.com/vinceliuice/Toffee-gtk-the
 
 These changes are to adapt a visual theme according to CuerdOS.
 
-## Instalation guide
+
+## Instalation guide:
+(in debian based distros)
+
+```
+sudo dpkg -i cuerdos-gtk-theme.deb
+```
+(in other linux distros)
 
 ### (With administrator privileges)
-Drag the "CuerdOS-Elementary" folder to the "/usr/share/icons" directory
+Drag the "CuerdOS-Adwaita" and "CuerdOS-Adwaita-dark" folders to the "/usr/share/themes" directory
 
 ### (No admin privileges)
-Drag the "CuerdOS-Elementary" folder to the "/home/[your user]/.icons" directory
+Drag the "CuerdOS-Adwaita" and "CuerdOS-Adwaita-dark" folders to the "/home/[your user]/.themes" directory
 
-If the ".icons" folder does not exist, you just have to create it.
+If the ".themes" folder does not exist, you just have to create it.
