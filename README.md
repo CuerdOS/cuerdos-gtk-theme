@@ -8,10 +8,10 @@ These changes are to adapt a visual theme according to CuerdOS.
 
 ## Instalation guide
 
-# (With administrator privileges)
+### (With administrator privileges)
 Drag the "CuerdOS-Elementary" folder to the "/usr/share/icons" directory
 
-# (No admin privileges)
+### (No admin privileges)
 Drag the "CuerdOS-Elementary" folder to the "/home/[your user]/.icons" directory
 
 If the ".icons" folder does not exist, you just have to create it.
