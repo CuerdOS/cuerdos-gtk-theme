@@ -1,4 +1,4 @@
-# cuerdos-gtk-theme
+# CuerdOS GTK Theme
 GTK and Xfwm theme for CuerdOS
 Official GTK and Xfwm theme for CuerdOS.
 The GTK theme is based on the Adwaita Color Gen [https://github.com/Gnostiphage/adwaita-color-gen].
